@@ -1,2 +1,2 @@
 # Escape-From-Tarkov-BenchMark-Result-Sheet
-# [Link]()
+# [Link](https://lgnlogan.github.io/EscapeFromTarkov-BenchMark-Result-Sheet/)
